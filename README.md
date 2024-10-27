@@ -22,11 +22,11 @@ This project implements various image transformation techniques using Python, Op
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/GarikHarutyunyan/py-image-processing-intensity.git
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repo-name
+   cd py-image-processing-intensity
 
 3. **Create a Virtual Environment:**
    ```bash
@@ -46,3 +46,7 @@ This project implements various image transformation techniques using Python, Op
 5. **Install Dependencies: Install the required packages using the requirements.txt file:**
    ```bash
    pip install -r requirements.txt
+
+6. **Usage:**
+   ```bash
+   python py-image-processing-intensity.py
