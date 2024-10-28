@@ -54,3 +54,7 @@
 6. **Usage:**
    ```bash
    python main.py
+
+**Screenshot:**
+
+![Example](path/to/your/image.png)
