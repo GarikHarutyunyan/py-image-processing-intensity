@@ -1,22 +1,26 @@
-# Image Transformations Project
+# Py Image Processing Intensity
 
-This project implements various image transformation techniques using Python, OpenCV, and Tkinter.
+## Overview
+
+**Py Image Processing Intensity** is a Python-based application that allows users to perform various image transformations using binary thresholding, contrast stretching, negative transformation, log transformation, and gamma correction. The application provides a graphical user interface (GUI) built with Tkinter, making it easy to visualize the effects of different image processing techniques.
 
 ## Features
 
-- Binary Thresholding
-- Contrast Stretching
-- Negative Image
-- Log Transformation
-- Gamma Correction
+- **Binary Thresholding**: Convert grayscale images to binary images based on a specified threshold.
+- **Contrast Stretching**: Enhance the contrast of images by adjusting the intensity values.
+- **Negative Transformation**: Invert the pixel values of an image.
+- **Log Transformation**: Apply logarithmic scaling to enhance image features.
+- **Gamma Correction**: Adjust the brightness of images using gamma values.
+- **User-Friendly GUI**: Built with Tkinter for easy navigation and interaction.
+- **Dynamic Image Display**: Users can select images from a dropdown menu, and transformations are applied in real-time.
 
 ## Requirements
 
 - Python 3.x
 - OpenCV
 - NumPy
-- Pillow
-- Tkinter
+- PIL (Pillow)
+- Tkinter (usually included with Python installations)
 
 ## Installation
 
