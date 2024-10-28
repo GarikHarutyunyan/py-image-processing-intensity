@@ -57,4 +57,4 @@
 
 **Screenshot:**
 
-![Example](path/to/your/image.png)
+![Example](/screenshot.png)
