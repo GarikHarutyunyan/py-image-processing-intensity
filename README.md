@@ -49,4 +49,4 @@ This project implements various image transformation techniques using Python, Op
 
 6. **Usage:**
    ```bash
-   python py-image-processing-intensity.py
+   python main.py
